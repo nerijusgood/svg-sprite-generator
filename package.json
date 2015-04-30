@@ -1,0 +1,19 @@
+{
+  "name": "Workflow",
+  "version": "1.0.0",
+  "description": "Generate SVG bitch",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nerijusgood/Workflow-Examlpe.git"
+  },
+  "author": "Nerijus Gudas",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-html2jade": "^1.1.1",
+    "gulp-size": "^1.2.1",
+    "gulp-svgmin": "^1.1.2",
+    "gulp-svgstore": "^5.0.1"
+  }
+}
